@@ -13,7 +13,7 @@ Play Store: https://play.google.com/store/apps/details?id=com.livewithtogether.n
 App Store: https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109
 
 관련 블로그 
-https://chosunghyun18.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%A7%88%EC%9D%B4%EB%AC%B4%EB%9D%BC
+https://chosunghyun18.tistory.com/category/Project/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%A7%88%EC%9D%B4%EB%AC%B4%EB%9D%BC
 
 
 
